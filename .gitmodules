@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "geneXtendeR"]
-	path = geneXtendeR
-	url = https://github.com/bohdan-khomtchouk/genextender
-	shallow = true
-	registered = true
